@@ -1,6 +1,6 @@
 # Linux-file-monitor
 
-I'll create a monitoring script that checks critical files for modifications and alerts you to any changes. This can help detect potential security breaches or unauthorized modifications.​​​​​​​​​​​​​​​​
+This shell script can help detect potential security breaches or unauthorized modifications.​​​​​​​​​​​​​​​​
 
 This script creates a file integrity monitoring system. Here's how to use it:
 
@@ -28,5 +28,3 @@ Be sure to:
 2. Update the `EMAIL` variable with your email address
 3. Secure the hash database and log files
 4. Consider storing the hash database on a separate, secure system
-
-Would you like me to add any additional security features or modify the monitoring parameters?​​​​​​​​​​​​​​​​
